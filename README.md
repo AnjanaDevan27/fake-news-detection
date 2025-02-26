@@ -1,1 +1,3 @@
 # fake-news-detection
+
+This project aims to classify news articles as real or fake using Natural Language Processing (NLP) and Machine Learning (ML) techniques. It involves text preprocessing, feature extraction (TF-IDF, Word2Vec, BERT), and model training using classifiers like Logistic Regression, Random Forest, LSTM, and Transformers. The goal is to build an accurate model that helps identify misinformation and can be deployed as a web API or application for real-time detection.
